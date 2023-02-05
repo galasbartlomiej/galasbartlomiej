@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @galasbartlomiej
-- 👀 I’m interested in C and Python
-- 🌱 I’m currently learning C, STM32, Python
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
